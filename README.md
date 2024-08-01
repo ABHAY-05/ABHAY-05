@@ -222,10 +222,10 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/><br>MongoDB
       </td>
     </tr>
   </tbody>
