@@ -272,15 +272,11 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
 
 <h2 align="center">📫 Let's Connect!</h2>
 
-<table align="center">
-  <tr>
-    <td colspan="3" align="center" style="border: none;">
-      <a href="mailto:Abhayvermajune5@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Abhayvermajune5@gmail.com&size=square" alt="Abhay Verma" style="margin: 10px;">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="mailto:Abhayvermajune5@gmail.com" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Abhayvermajune5@gmail.com&size=square" alt="Abhay Verma" style="margin: 10px;">
+  </a>
+</div>
 
 
 <br>
