@@ -28,7 +28,7 @@
     </td>
     <td align="center" style="border: none;">
       <a href="https://github.com/Abhay-05" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAbhay-05&subtitle=%2FAbhay+Verma&size=square" alt="Abhay Verma">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAbhay-05&subtitle=Abhay-05&size=square" alt="Abhay Verma">
       </a>
     </td>
   </tr>
