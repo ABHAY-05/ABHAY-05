@@ -2,7 +2,7 @@
 
 <div align="center">
 <div align="center">
-  <a href="https://github.com/ABHAY-05">
+  <a href="https://github.com/ABHAY-05" target="_blank">
     <img src="https://github.com/ABHAY-05/ABHAY-05/blob/main/Abhay.png" alt="Abhay Verma" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
   </a>
 </div>
@@ -85,24 +85,24 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
   <table>
     <tr>
       <td>
-        <a href="https://github.com/ABHAY-05/Product-Recommendation-System">
+        <a href="https://github.com/ABHAY-05/Product-Recommendation-System" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/ABHAY-05/todo-app">
+        <a href="https://github.com/ABHAY-05/todo-app" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=todo-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/ABHAY-05/MEDSCAN">
+        <a href="https://github.com/ABHAY-05/MEDSCAN" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=MEDSCAN&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/ABHAY-05/Linguistic-OCR">
+        <a href="https://github.com/ABHAY-05/Linguistic-OCR" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Linguistic-OCR&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
@@ -139,49 +139,49 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
       <tbody>
         <tr>
           <td align="center" style="border: none;">
-            <a href="https://nextjs.org/" style="color: white;">
+            <a href="https://nextjs.org/" style="color: white;" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
             </a>
             <br>Next.js
           </td>
           <td align="center" style="border: none;">
-            <a href="https://tailwindcss.com/" style="color: white;">
+            <a href="https://tailwindcss.com/" style="color: white;" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
             </a>
             <br>Tailwind CSS
           </td>
           <td align="center" style="border: none;">
-            <a href="https://reactjs.org/" style="color: white;">
+            <a href="https://reactjs.org/" style="color: white;" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>
             </a>
             <br>React
           </td>
           <td align="center" style="border: none;">
-            <a href="https://www.typescriptlang.org/" style="color: white;">
+            <a href="https://www.typescriptlang.org/" style="color: white;" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/>
             </a>
             <br>TypeScript
           </td>
           <td align="center" style="border: none;">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/>
             </a>
             <br>JavaScript
           </td>
           <td align="center" style="border: none;">
-            <a href="https://redux.js.org/" style="color: white;">
+            <a href="https://redux.js.org/" style="color: white;" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="50" height="50" alt="Redux"/>
             </a>
             <br>Redux
           </td>
           <td align="center" style="border: none;">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" height="50" alt="HTML"/>
             </a>
             <br>HTML
           </td>
           <td align="center" style="border: none;">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="50" height="50" alt="CSS"/>
             </a>
             <br>CSS
@@ -282,7 +282,7 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
 <br>
 
 <h3 align="center">
-⭐️ From <a href="https://github.com/Abhay-05/">Abhay-05</a> | Let's innovate together! 🚀
+⭐️ From <a href="https://github.com/Abhay-05/" target="_blank">Abhay-05</a> | Let's innovate together! 🚀
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
