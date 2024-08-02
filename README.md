@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABHAY-05&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=ABHAY-05&color=blueviolet&style=plastic&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 
