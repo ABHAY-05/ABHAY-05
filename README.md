@@ -10,7 +10,7 @@
 <h1 align="center">👋 Hello, I'm Abhay Verma</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Developer;AI+Engineer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Competitive+Coder;" alt="Typing SVG" />
 </p>
 
 [![Abhay Verma](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Abhay+Verma&size=square)](https://abhay-verma.vercel.app/) &nbsp; &nbsp;
