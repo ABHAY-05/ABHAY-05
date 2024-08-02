@@ -62,9 +62,9 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
 
 ### Top Repositories
 
-[![Product-Recommendation-System](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/Product-Recommendation-System) &nbsp;
+[![Product-Recommendation-System](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/Product-Recommendation-System)
 [![todo-app](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/todo-app)
-[![MEDSCAN](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=MEDSCAN&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/MEDSCAN) &nbsp;
+[![MEDSCAN](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=MEDSCAN&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/MEDSCAN)
 [![Linguistic-OCR](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=Linguistic-OCR&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/Linguistic-OCR)
 
 <br>
