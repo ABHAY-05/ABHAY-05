@@ -15,12 +15,12 @@
 
 [![Abhay Verma](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Abhay+Verma&size=square)](https://abhay-verma.vercel.app/) &nbsp; &nbsp;
 [![Abhay Verma](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabhay-verma-b3987a210%2F&subtitle=@Abhay+Verma&size=square)](https://www.linkedin.com/in/abhay-verma-b3987a210/) &nbsp; &nbsp;
-[![Abhay Verma](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAbhay-05&subtitle=Abhay-05&size=square)](https://github.com/Abhay-05)
+[![Abhay Verma](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FABHAY-05&subtitle=ABHAY-05&size=square)](https://github.com/ABHAY-05)
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhay-05&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=ABHAY-05&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 
@@ -31,9 +31,9 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhay-05&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ABHAY-05&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay-05&custom_title=Abhay's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAY-05&custom_title=Abhay's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <br>
@@ -42,30 +42,30 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
     <table>
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-05&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-05&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
         </td>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhay-05&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ABHAY-05&theme=highcontrast&hide_border=true" alt="Repos Per Language">
         </td>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhay-05&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABHAY-05&theme=highcontrast&hide_border=true" alt="Most Commit Language">
         </td>
       </tr>
     </table>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abhay-05&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Abhay's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ABHAY-05&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Abhay's GitHub stats">
     <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay-05&theme=highcontrast&hide_border=true">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHAY-05&theme=highcontrast&hide_border=true">
 </div>
 
 ### Top Repositories
 
-[![Product-Recommendation-System](https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/Product-Recommendation-System) &nbsp;
-[![todo-app](https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/todo-app)
-[![MEDSCAN](https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=MEDSCAN&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/MEDSCAN) &nbsp;
-[![Linguistic-OCR](https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Linguistic-OCR&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/Linguistic-OCR)
+[![Product-Recommendation-System](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/Product-Recommendation-System) &nbsp;
+[![todo-app](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/todo-app)
+[![MEDSCAN](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=MEDSCAN&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/MEDSCAN) &nbsp;
+[![Linguistic-OCR](https://github-readme-stats.vercel.app/api/pin/?username=ABHAY-05&repo=Linguistic-OCR&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/Linguistic-OCR)
 
 <br>
 
@@ -73,7 +73,7 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
     <details>
       <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
       <br>
-      <img src="https://github-profile-trophy.vercel.app/?username=Abhay-05&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=ABHAY-05&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
     </details>
 </div>
 
@@ -218,7 +218,7 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
 <br>
 
 <h3 align="center">
-⭐️ From <a href="https://github.com/Abhay-05/" target="_blank">Abhay-05</a> | Let's innovate together! 🚀
+⭐️ From <a href="https://github.com/ABHAY-05/" target="_blank">Abhay Verma</a> | Let's innovate together! 🚀
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
