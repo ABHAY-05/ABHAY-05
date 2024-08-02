@@ -3,7 +3,7 @@
 <div align="center">
 <div align="center">
   <a href="https://github.com/ABHAY-05" target="_blank">
-    <img src="https://github.com/ABHAY-05/ABHAY-05/blob/main/Abhay.png" alt="Abhay Verma" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
+    <img src="https://github.com/ABHAY-05/ABHAY-05/blob/main/Abhay.png" alt="Abhay Verma" width="200" height="200">
   </a>
 </div>
 
@@ -13,31 +13,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Developer;AI+Engineer;" alt="Typing SVG" />
 </p>
 
-
-<div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://abhay-verma.vercel.app/" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Abhay+Verma&size=square" alt="Abhay Verma">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://www.linkedin.com/in/abhay-verma-b3987a210/" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabhay-verma-b3987a210%2F&subtitle=@Abhay+Verma&size=square" alt="Abhay Verma">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/Abhay-05" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAbhay-05&subtitle=Abhay-05&size=square" alt="Abhay Verma">
-          </a>
-        </td>
-      </tr>
-    </table>
-</div>
+[![Abhay Verma](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Abhay+Verma&size=square)](https://abhay-verma.vercel.app/) &nbsp; &nbsp;
+[![Abhay Verma](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabhay-verma-b3987a210%2F&subtitle=@Abhay+Verma&size=square)](https://www.linkedin.com/in/abhay-verma-b3987a210/) &nbsp; &nbsp;
+[![Abhay Verma](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAbhay-05&subtitle=Abhay-05&size=square)](https://github.com/Abhay-05)
 
 <br>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhay-05&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
@@ -81,34 +61,11 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
 </div>
 
 ### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/ABHAY-05/Product-Recommendation-System" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ABHAY-05/todo-app" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=todo-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ABHAY-05/MEDSCAN" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=MEDSCAN&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ABHAY-05/Linguistic-OCR" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Linguistic-OCR&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+[![Product-Recommendation-System](https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/Product-Recommendation-System) &nbsp;
+[![todo-app](https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Product-Recommendation-System&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/todo-app)
+[![MEDSCAN](https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=MEDSCAN&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/MEDSCAN) &nbsp;
+[![Linguistic-OCR](https://github-readme-stats.vercel.app/api/pin/?username=Abhay-05&repo=Linguistic-OCR&theme=highcontrast&hide_border=true&border_radius=15)](https://github.com/ABHAY-05/Linguistic-OCR)
 
 <br>
 
@@ -139,51 +96,35 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
       <tbody>
         <tr>
           <td align="center" style="border: none;">
-            <a href="https://nextjs.org/" style="color: white;" target="_blank">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
-            </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
             <br>Next.js
           </td>
           <td align="center" style="border: none;">
-            <a href="https://tailwindcss.com/" style="color: white;" target="_blank">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
-            </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
             <br>Tailwind CSS
           </td>
           <td align="center" style="border: none;">
-            <a href="https://reactjs.org/" style="color: white;" target="_blank">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-            </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>
             <br>React
           </td>
           <td align="center" style="border: none;">
-            <a href="https://www.typescriptlang.org/" style="color: white;" target="_blank">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/>
-            </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/>
             <br>TypeScript
           </td>
           <td align="center" style="border: none;">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;" target="_blank">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/>
-            </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/>
             <br>JavaScript
           </td>
           <td align="center" style="border: none;">
-            <a href="https://redux.js.org/" style="color: white;" target="_blank">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="50" height="50" alt="Redux"/>
-            </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="50" height="50" alt="Redux"/>
             <br>Redux
           </td>
           <td align="center" style="border: none;">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;" target="_blank">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" height="50" alt="HTML"/>
-            </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" height="50" alt="HTML"/>
             <br>HTML
           </td>
           <td align="center" style="border: none;">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;" target="_blank">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="50" height="50" alt="CSS"/>
-            </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="50" height="50" alt="CSS"/>
             <br>CSS
           </td>
         </tr>
@@ -223,7 +164,7 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
     <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
       <thead>
         <tr>
-          <th colspan="4" align="center" style="color: white;">Database</th>
+          <th colspan="2" align="center" style="color: white;">Database</th>
         </tr>
       </thead>
       <tbody>
@@ -272,12 +213,7 @@ As a driven Frontend Developer and Competitive Coder, I excel in Web Development
 
 <h2 align="center">📫 Let's Connect!</h2>
 
-<div align="center">
-  <a href="mailto:Abhayvermajune5@gmail.com" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Abhayvermajune5@gmail.com&size=square" alt="Abhay Verma" style="margin: 10px;">
-  </a>
-</div>
-
+[![Abhay Verma](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Abhayvermajune5@gmail.com&size=square)](mailto:Abhayvermajune5@gmail.com)
 
 <br>
 
