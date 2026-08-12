@@ -4,7 +4,7 @@
   <br>
 
   <a href="https://github.com/ABHAY-05" target="_blank">
-    <img src="https://raw.githubusercontent.com/ABHAY-05/ABHAY-05/main/Abhay.png" alt="Abhay Verma" width="180" height="180" style="border-radius: 50%;">
+    <img src="https://raw.githubusercontent.com/ABHAY-05/ABHAY-05/main/Abhay.png" alt="Abhay Verma" width="170" height="170" style="border-radius: 50%; object-fit: cover; border: 3px solid #9400D3;">
   </a>
 
   <p align="center">
@@ -39,7 +39,7 @@ I am a **Full-Stack Software Engineer** and **Competitive Coder** with a passion
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center"><b>Languages</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,mysql" alt="Languages" /></td>
@@ -61,18 +61,26 @@ I am a **Full-Stack Software Engineer** and **Competitive Coder** with a passion
 
 <br>
 
-## 📊 GitHub Stats (Extended)
+## 📊 GitHub & Coding Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ABHAY-05&theme=tokyonight&show_icons=true" width="48%" alt="GitHub Extended Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ABHAY-05&theme=tokyonight&layout=compact" width="48%" alt="Top Languages Extended" />
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" width="50%" valign="middle">
+        <img src="https://github-stats-extended.vercel.app/api?username=ABHAY-05&theme=tokyonight&show_icons=true" width="100%" alt="GitHub Extended Stats" />
+      </td>
+      <td align="center" width="50%" valign="middle">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ABHAY-05&theme=tokyonight&layout=compact" width="100%" alt="Top Languages Extended" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://leetcode.com/Abhay-verma" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Abhay-verma?theme=dark&font=Fira%20Code&ext=activity" width="70%" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Abhay-verma?theme=dark&font=Fira%20Code&ext=none" width="60%" alt="LeetCode Stats" />
   </a>
 </div>
 
