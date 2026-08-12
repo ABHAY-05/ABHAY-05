@@ -1,5 +1,11 @@
-[<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Abhay%20Verma&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Abhay%20Verma&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
+
+  <br>
+
+  <a href="https://github.com/ABHAY-05" target="_blank">
+    <img src="https://raw.githubusercontent.com/ABHAY-05/ABHAY-05/main/Abhay.png" alt="Abhay Verma" width="180" height="180" style="border-radius: 50%;">
+  </a>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js;Competitive+Coder+(800%2B+LeetCode);AI%2FML+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
@@ -17,65 +23,62 @@
   </p>
 </div>
 
----
+<br>
 
-### 🚀 About Me
+## 🚀 About Me
 
-Full-Stack Software Engineer with experience in building scalable web platforms and deploying machine learning services. Passionate about problem-solving, high-performance web architecture, and clean code.
+I am a **Full-Stack Software Engineer** and **Competitive Coder** with a passion for building scalable web platforms and deploying machine learning services. I specialize in high-performance web architecture, clean code, and solving complex algorithmic challenges.
 
 - 💼 **Freelance Software Engineer** building modern web platforms for global clients.
 - 🎓 **B.Tech in Computer Science & Engineering** (Class of 2024).
 - 🧩 **Competitive Programmer** with **800+ solved problems on LeetCode** and **6-Star Rating** on HackerRank.
 - ⚙️ **Core Tech:** Next.js 15, TypeScript, Tailwind CSS, Node.js, FastAPI, Python, MongoDB.
 
----
+<br>
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <strong>Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,mysql" alt="Languages" />
-</p>
-
-<p align="left">
-  <strong>Frontend & Web:</strong><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,bootstrap,figma" alt="Frontend Frameworks" />
-</p>
-
-<p align="left">
-  <strong>Backend & Databases:</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql" alt="Backend & Databases" />
-</p>
-
-<p align="left">
-  <strong>ML & Tools:</strong><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode,postman" alt="Tools & Machine Learning" />
-</p>
-
----
-
-### 📊 GitHub & Coding Stats
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHAY-05&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-05&layout=compact&theme=dark&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,mysql" alt="Languages" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,bootstrap,figma" alt="Frontend" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Backend & DB</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,postgres" alt="Backend & Databases" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>AI & Tools</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode,postman" alt="Tools & AI" /></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📊 GitHub Stats (Extended)
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ABHAY-05&theme=tokyonight&show_icons=true" width="48%" alt="GitHub Extended Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ABHAY-05&theme=tokyonight&layout=compact" width="48%" alt="Top Languages Extended" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ABHAY-05&theme=dark&hide_border=true" width="98%" alt="GitHub Streak" />
+  <a href="https://leetcode.com/Abhay-verma" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Abhay-verma?theme=dark&font=Fira%20Code&ext=activity" width="70%" alt="LeetCode Stats" />
+  </a>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/Abhay-verma" width="60%" alt="LeetCode Stats" />
-</div>
-
----
-
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -84,11 +87,10 @@ Full-Stack Software Engineer with experience in building scalable web platforms 
 | 🏠 **[A&P Buyers Agency](https://www.apbuyersagency.com.au/)** | `Next.js 15` `TypeScript` `Tailwind` | Modern, high-conversion real estate consulting platform for Australian clients. |
 | 📚 **[PolarVeda](https://www.polarveda.co.in/)** | `Next.js` `MongoDB` `Tailwind CSS` | High-performance online tutoring platform engineered for interactive learning workflows. |
 
----
+<br>
 
 <div align="center">
   <sub>Designed with ❤️ by <a href="https://github.com/ABHAY-05">Abhay Verma</a></sub>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
-](https://github-stats-extended.vercel.app/frontend)
