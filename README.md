@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Abhay%20Verma&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <p align="center">
@@ -91,3 +91,4 @@ Full-Stack Software Engineer with experience in building scalable web platforms 
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
+](https://github-stats-extended.vercel.app/frontend)
