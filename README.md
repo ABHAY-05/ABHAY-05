@@ -32,7 +32,7 @@ I am a **Full-Stack Software Engineer** and **Competitive Coder** with a passion
 - 💼 **Freelance Software Engineer** building modern web platforms for global clients.
 - 🎓 **B.Tech in Computer Science & Engineering** (Class of 2024).
 - 🧩 **Competitive Programmer** with **800+ solved problems on LeetCode** and **6-Star Rating** on HackerRank.
-- ⚙️ **Core Tech:** Next.js 15, TypeScript, Tailwind CSS, Node.js, FastAPI, Python, MongoDB.
+- ⚙️ **Core Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, FastAPI, Python, MongoDB.
 
 <br>
 
