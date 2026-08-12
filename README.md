@@ -4,7 +4,7 @@
   <br>
 
   <a href="https://github.com/ABHAY-05" target="_blank">
-    <img src="https://raw.githubusercontent.com/ABHAY-05/ABHAY-05/main/Abhay.png" alt="Abhay Verma" width="170" height="170" style="border-radius: 50%; object-fit: cover; border: 3px solid #9400D3;">
+    <img src="https://avatar-cyan.vercel.app/api/avatar?url=https://raw.githubusercontent.com/ABHAY-05/ABHAY-05/main/Abhay.png&size=170&shape=circle&border=true&borderColor=9400D3" width="170" height="170" alt="Abhay Verma" />
   </a>
 
   <p align="center">
